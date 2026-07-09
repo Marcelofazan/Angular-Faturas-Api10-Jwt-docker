@@ -59,8 +59,7 @@ Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIwYjgxMjBmOC0yM2YyLTQx
 A API ira rodar **http://localhost:8080/swagger/index.html**
 
 
-### Padrão de Resultado
-
+#### Separação de responsabilidades 
 - Todos os métodos de serviço retornam `ResponseModel`/`ResponseModel<T>` (`Message`, `IsSucceeded`, `StatusCode`, `Errors`).
 - Em vez de lançar exceções para falhas de negócio esperadas (recurso não encontrado, validação, conflitos de estado) utilizando os métodos de fábrica estáticos `ResponseModel.Success(...)`/`ResponseModel.Failure(...)`. 
 - Todas as ações de *controller* executam `return StatusCode(result.StatusCode, result);` de forma padronizada. 
