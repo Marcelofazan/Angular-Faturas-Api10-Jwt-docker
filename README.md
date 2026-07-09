@@ -50,7 +50,7 @@ Para utilizar a Api necessário autorização JWT e deve ser colocado antes do T
 
 ```bash  
 Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIwYjgxMjBmOC0yM2YyLTQxMjktOTc2My04ZmM
-``
+```
 
 A API ira rodar **http://localhost:8080/swagger/index.html**
 
