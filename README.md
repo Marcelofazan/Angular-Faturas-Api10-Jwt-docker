@@ -3,7 +3,6 @@ Aplicativo de Faturas com multi-linguas PT ES e ENG em Angular 21 e API com aute
 
 | Tecnologia | Descrição |
 |-----------|-----------|
-| **.env**   | Gerenciar variáveis de ambiente, garantindo segurança (não expor senhas/chaves) e flexibilidade entre ambientes (desenvolvimento, produção) |
 | **BCrypt** | Algoritmo de hashing criptográfico utilizado para armazenar senhas de forma segura |
 | **CORS** | Mecanismo de segurança implementado no navegador e não uma responsabilidade do frontend ou backend |
 | **Fluent Validation** | Biblioteca para regras de validação de forma simples, legível e desacoplada |
