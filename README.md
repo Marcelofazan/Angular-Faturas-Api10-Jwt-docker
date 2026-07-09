@@ -5,6 +5,7 @@ Aplicativo de Faturas com multi-linguas PT ES e ENG em Angular 21 e API com aute
 #### 🎨 Aqui está uma demonstração do projeto
 <img width="1262" height="612" alt="Faturas" src="https://github.com/user-attachments/assets/a8f2c027-b366-4fc9-9495-78881e68af3d" />
 
+#### 📋 O que voçê vai ver nesse Projeto
 | Tecnologia | Descrição |
 |-----------|-----------|
 | **BCrypt** | Algoritmo de hashing criptográfico utilizado para armazenar senhas de forma segura |
