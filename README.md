@@ -32,7 +32,7 @@ JWT_SECRET=ChaveGarantidaComMaisDeSessentaEQuatroCaracteresParaPreencherOs512Bit
 
 VSCode Terminal [1]
 
-- Iniciar Container
+- Criar Container
 ```bash
 docker compose up --build --force-recreate
 ```
@@ -47,7 +47,7 @@ O projeto ira rodar em **http://localhost:8081**
 
 #### 🔄 Executar a aplicação Desenvolvimento Local
 
-VSCode Terminal [1]
+VSCode Terminal [1.1]
 
 - Restaurar dependencias .Net
 ```build
