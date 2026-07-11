@@ -37,7 +37,7 @@ VSCode Terminal [1]
 docker compose up --build --force-recreate
 ```
 
-VSCode Terminal [3]
+VSCode Terminal [2]
 - Fechar Container
 ```bash
 docker compose down 
@@ -47,7 +47,7 @@ O projeto ira rodar em **http://localhost:8081**
 
 #### 🔄 Executar a aplicação Desenvolvimento Local
 
-VSCode Terminal [2]
+VSCode Terminal [1]
 
 - Restaurar dependencias .Net
 ```build
