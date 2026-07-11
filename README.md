@@ -28,8 +28,7 @@ EMAIL_PASSWORD=[SUA_SENHA_APP]
 JWT_SECRET=ChaveGarantidaComMaisDeSessentaEQuatroCaracteresParaPreencherOs512BitsNecessariosDoAlgoritmo!!!
 ```
 
-## 📁 Frontend 
-#### 🔄 Executar a aplicação
+#### 🔄 Executar a aplicação Docker
 
 VSCode Terminal [1]
 
@@ -38,6 +37,7 @@ VSCode Terminal [1]
 docker compose up --build --force-recreate
 ```
 
+VSCode Terminal [3]
 - Fechar Container
 ```bash
 docker compose down 
@@ -45,12 +45,20 @@ docker compose down
 
 O projeto ira rodar em **http://localhost:8081**
 
+#### 🔄 Executar a aplicação Desenvolvimento Local
 
-## 📁 Backend
-#### 🔄 Executar a aplicação
+VSCode Terminal [2]
 
+- Restaurar dependencias .Net
+```build
+dotnet restore
+```
 
-Para utilizar a Api necessário autorização JWT e deve ser colocado antes do Token a palavra **Bearer** .
+- Executar Build do Projeto
+```bash
+dotnet run
+```
+Para utilizar a API necessário autorização JWT e deve ser colocado antes do Token a palavra **Bearer** .
 
 ```bash  
 Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIwYjgxMjBmOC0yM2YyLTQxMjktOTc2My04ZmM
