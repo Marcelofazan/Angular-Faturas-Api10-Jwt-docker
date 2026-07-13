@@ -18,8 +18,8 @@ Aplicativo de Faturas com multi-linguas PT ES e ENG em Angular 21 e API com aute
 
 
 #### 💬 Requisitos do Projeto
-- Necessário **Docker** instalado.
-- Necessário configurar arquivo **.env**
+- Necessário Docker instalado.
+- Necessário configurar arquivo .env
 
 Modifique alterando [SEU_EMAIL] e [SUA_SENHA] no arquivo **.env** .
 ```bash
