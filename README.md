@@ -1,5 +1,5 @@
 
-## 🌐 Angular-Faturas-Api10-docker-mvp
+## 🌐 Angular-Net-Faturas-docker-mvp
 Aplicativo de Faturas com multi-linguas PT ES e ENG em Angular 21 e API com autenticação Jwt em C# ASP.NET Core 10 com banco de dados Postgres.
 
 #### 🎨 Aqui está uma demonstração do projeto
