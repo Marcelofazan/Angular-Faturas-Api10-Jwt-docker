@@ -15,6 +15,7 @@ Aplicativo de Faturas com multi-linguas PT ES e ENG em Angular 21 e API com aute
 | **JWT**  | É um crachá digital usado para identificar usuários e trocar informações de forma segura entre computadores |
 | **MailKit**  | Biblioteca usada para criar, enviar e receber e-mails. |
 | **QuestPDF**  | biblioteca open-source para o ecossistema .NET que permite gerar documentos PDF |
+| **Serilog**  | Bibliotecas de registro de logs (diagnóstico) |
 
 
 #### 💬 Requisitos do Projeto
