@@ -89,7 +89,7 @@ O Google vai exibir uma senha de 16 letras dentro de uma caixa amarela.
 Copie essa senha (ignore os espaços, use as 16 letras juntas).
 
 Modifique [SEU_EMAIL] e [SUA_SENHA] no arquivo **appsettings.json** .
-```bash
+```json
   "EmailConfig": {
     "From": "[SEU_EMAIL]",
     "SmtpServer": "smtp.gmail.com",
