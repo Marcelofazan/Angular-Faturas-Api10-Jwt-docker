@@ -16,6 +16,7 @@ Aplicativo de Faturas Multilanguage (PT,ENG e ES) em Angular 21 e API com autent
 | **MailKit**  | Biblioteca usada para criar, enviar e receber e-mails. |
 | **QuestPDF**  | biblioteca open-source para o ecossistema .NET que permite gerar documentos PDF |
 | **Serilog**  | Bibliotecas de registro de logs (diagnóstico) |
+| **SignalR**  | Biblioteca de código aberto para .NET que simplifica a criação de funcionalidades de comunicação em tempo real | 
 
 
 #### 💬 Requisitos do Projeto
